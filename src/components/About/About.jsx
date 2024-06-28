@@ -18,11 +18,11 @@ const About = ({setPlayState}) => {
         <div className="about-right">
             <h3>About Universty</h3>
             <h2>Nurturing Tommarow's Leaders Today</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo incidunt voluptate praesentium consequatur eveniet magnam quaerat quis blanditiis odit officia omnis molestias, aspernatur id autem? Quod eveniet atque dolorum sit.
+            <p>we are committed to providing an exceptional education that combines rigorous academic programs with hands-on experiences.
             </p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo incidunt voluptate praesentium consequatur eveniet magnam quaerat quis blanditiis odit officia omnis molestias, aspernatur id autem? Quod eveniet atque dolorum sit.
+            <p>Our diverse and inclusive community fosters personal and professional growth, preparing students to become leaders in their fields. With state-of-the-art facilities and a dedicated faculty, we ensure a transformative journey for every student.
             </p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo incidunt voluptate praesentium consequatur eveniet magnam quaerat quis blanditiis odit officia omnis molestias, aspernatur id autem? Quod eveniet atque dolorum sit.
+            <p>Students at Edusity benefit from a vibrant campus life, engaging in various extracurricular activities, research opportunities.
             </p>
 
         </div>
